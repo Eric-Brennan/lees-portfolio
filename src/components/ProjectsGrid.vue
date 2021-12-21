@@ -131,24 +131,24 @@ export default {
 					category: 'Top 10 Tips for Hunting Season',
 					img: require('@/assets/images/ui-project-1.png'),
 				},
-				{
-					id: 4,
-					title: 'Cloud Storage Platform',
-					category: 'UI/UX Design',
-					img: require('@/assets/images/ui-project-2.jpg'),
-				},
-				{
-					id: 5,
-					title: 'React Social App',
-					category: 'Mobile Application',
-					img: require('@/assets/images/mobile-project-1.jpg'),
-				},
-				{
-					id: 6,
-					title: 'Apple Design System',
-					category: 'Web Application',
-					img: require('@/assets/images/web-project-1.jpg'),
-				},
+				//{
+				//	id: 4,
+				//	title: 'Cloud Storage Platform',
+				//	category: 'UI/UX Design',
+				//	img: require('@/assets/images/ui-project-2.jpg'),
+				//},
+				//{
+				//	id: 5,
+				//	title: 'React Social App',
+				//	category: 'Mobile Application',
+				//	img: require('@/assets/images/mobile-project-1.jpg'),
+				//},
+				//{
+				//	id: 6,
+				//	title: 'Apple Design System',
+				//	category: 'Web Application',
+				//	img: require('@/assets/images/web-project-1.jpg'),
+				//},
 			],
 		};
 	},
