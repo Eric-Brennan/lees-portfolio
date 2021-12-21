@@ -115,21 +115,21 @@ export default {
 			projects: [
 				{
 					id: 1,
-					title: 'Google Health Platform',
-					category: 'Web Application',
-					img: require('@/assets/images/web-project-2.jpg'),
+					title: 'A Bear In The Woods',
+					category: 'Nature',
+					img: require('@/assets/images/web-project-2.png'),
 				},
 				{
 					id: 2,
-					title: 'Phoenix Digital Agency',
-					category: 'Mobile Application',
-					img: require('@/assets/images/mobile-project-2.jpg'),
+					title: 'Bearly Legal',
+					category: 'Kinky Kodiak, through a Kodak',
+					img: require('@/assets/images/mobile-project-2.png'),
 				},
 				{
 					id: 3,
-					title: 'Project Management UI',
-					category: 'UI/UX Design',
-					img: require('@/assets/images/ui-project-1.jpg'),
+					title: 'Bear Necessities',
+					category: 'Top 10 Tips for Hunting Season',
+					img: require('@/assets/images/ui-project-1.png'),
 				},
 				{
 					id: 4,

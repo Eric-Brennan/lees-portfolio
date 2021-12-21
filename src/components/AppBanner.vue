@@ -6,14 +6,14 @@
 		<!-- Banner left contents -->
 		<div class="w-full md:w-1/3 text-left">
 			<h1
-				class="text-3xl md:text-4xl xl:text-5xl text-center sm:text-left font-semibold text-ternary-dark dark:text-primary-light uppercase"
+				class="text-3xl md:text-4xl xl:text-5xl text-center sm:text-left font-semibold text-ternary-dark dark:text-primary-light"
 			>
-				Hi, Iam Stoman
+				Hey, I am Lee
 			</h1>
 			<p
 				class="mt-4 text-xl md:text-2xl xl:text-4xl text-center sm:text-left font-semibold leading-none text-gray-400"
 			>
-				A Full-Stack Developer & Design Enthusiast
+				An aspiring artist with a love for everything from concept through to digital design
 			</p>
 			<div class="flex justify-center sm:block">
 				<a
@@ -33,14 +33,7 @@
 
 		<!-- Banner right illustration -->
 		<div class="w-full md:w-2/3 text-right float-right">
-			<img
-				v-if="theme === 'light'"
-				src="@/assets/images/developer.svg"
-				alt="Developer"
-			/>
-			<img
-				v-else
-				src="@/assets/images/developer-dark.svg"
+			<img src="@/assets/images/bear-comp.png"
 				alt="Developer"
 			/>
 		</div>
